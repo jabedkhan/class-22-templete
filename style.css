@@ -1,0 +1,73 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+}
+img{
+    max-width: 100%;
+}
+.logo img{
+    width: 100px;
+}
+
+/* About Section */
+.about-section{
+    background-color: #f9f9ff
+}
+.about-content{
+    margin-top: 180px;
+}
+.about-content-2{
+    margin-top: 90px;
+}
+
+/* Review Section */
+
+.review-section{
+    background-color: #8490ff;
+}
+/* Our App Section */
+
+.our-app-item{
+    padding: 10px 80px;
+    box-shadow: 0 0 20px #e4e4eb;
+}
+.our-app-item p{
+    line-height: 3rem;
+}
+.our-app-item a{
+    box-shadow: 0 0 20px #182ce24b;
+}
+.app-serial{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: #f9f9ff;
+    line-height: 70px;
+}
+
+/* About Section */
+
+.about-item{
+    box-shadow: 3px 3px 20px rgba(126, 124, 124, 0.438);
+    margin-top: 100px;
+}
+.about-item img{
+    width: 100px;
+    margin-top: -70px;
+    margin-left: -160px
+}
+
+/* Form Section */
+.form-section{
+    background-color: #f9f9ff;
+}
+.from{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.103);
+}
+.address{
+    margin-top: 150px;
+}
+footer{
+    background-color: #080d21;
+}
